@@ -1,0 +1,16 @@
+PODS:
+  - FLKAutoLayout (0.1.1)
+  - ORStackView (1.2.0):
+    - FLKAutoLayout (~> 0.1)
+  - Reveal-iOS-SDK (1.0.4)
+
+DEPENDENCIES:
+  - ORStackView
+  - Reveal-iOS-SDK
+
+SPEC CHECKSUMS:
+  FLKAutoLayout: 9fa39aac2903b274fbeed6be74154cdb937a04fc
+  ORStackView: f1ccef4a0c40dd7907a638232f78a873cc03ab6c
+  Reveal-iOS-SDK: d3c8e109d42219daaa7a6e1ad2de34f0bdbb7a88
+
+COCOAPODS: 0.33.1

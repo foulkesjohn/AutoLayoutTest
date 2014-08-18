@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-AutoLayoutTest-FLKAutoLayout.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-AutoLayoutTest-ORStackView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-AutoLayoutTest-Reveal-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-AutoLayoutTest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>10A0A975064D4CE68FEE0B3F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>245F2C67A33445E2AE66BFCF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C37946F721544DFAB07AA20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BB12E2BDBAAF44D7BD5B7746</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

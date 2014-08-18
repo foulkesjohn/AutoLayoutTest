@@ -1,0 +1,3 @@
+@interface TestView : UIView
+
+@end
